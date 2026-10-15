@@ -1,14 +1,16 @@
-# AgentMint Finance
+# Lazurio Example Organization finance
 
-Modul pro unit economics, revenue/cost evidence a finanční audit experimentů.
+A module for unit economics, revenue/cost evidence and the financial audit of
+experiments.
 
-Citlivé platební exporty, osobní údaje a přístupové údaje nepatří do Gitu.
-Do repa patří anonymizované souhrny, metodika výpočtů a auditovatelné závěry.
+Sensitive payment exports, personal data and credentials do not belong in Git.
+The repository holds anonymized summaries, the calculation methodology and
+auditable conclusions.
 
 ## Evidence
 
-- náklady experimentu
-- příjem nebo kvalifikovaný revenue signál
-- marže a časová náročnost
+- experiment costs
+- revenue or a qualified revenue signal
+- margin and time required
 - channel economics
-- stop/scale rozhodnutí
+- stop/scale decisions

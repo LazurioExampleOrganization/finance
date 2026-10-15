@@ -1,8 +1,8 @@
-# Finance — pravidla pro agenta
+# Finance: rules for the agent
 
-Tento modul vlastní finanční evidenci a unit economics.
+This module owns financial evidence and unit economics.
 
-- Nezapisuj secrets, bankovní data, platební exporty ani osobní údaje do Gitu.
-- Preferuj anonymizované souhrny a odkazy na bezpečné externí zdroje.
-- Každý finanční závěr musí mít jasnou metodiku a datum.
-- Pokud data nejsou ověřená, označ je jako odhad.
+- Do not write secrets, bank data, payment exports or personal data to Git.
+- Prefer anonymized summaries and links to safe external sources.
+- Every financial conclusion must have a clear methodology and a date.
+- If data is not verified, mark it as an estimate.
